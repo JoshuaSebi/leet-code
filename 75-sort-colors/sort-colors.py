@@ -9,7 +9,5 @@ class Solution:
                     nums[j]=nums[j+1]
                     nums[j+1]=temp
                     flag=1
-                # if flag==0:
-                #     return
                 
         
